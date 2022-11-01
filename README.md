@@ -1,6 +1,6 @@
-## Your Name
+## Robbie Kirkbride
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I am an enthusiastic and gregarious individual. After five years working in a civil engineering consultancy, I wanted to give myself a new challenge. I am currently part way through the 12 week Makers Academy coding bootcamp.
 
 ## Projects
 
@@ -11,15 +11,15 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**COWI UK** (January 2018 to October 2022)  
+Engineering consultant
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+- Supported multiple and concurrent civil engineering projects across the UK and abroad.
+- Project management for a long-standing Client with responsibility to supervise team members, lead client communication and ensure adherence of quality assurance processes.
+- Founding member of the "Early Careers Network"; an interal network, spanning all UK offices, which actively connected colleagues during the Coronavirus pandemic, organised an annual conference and maintained a database of resources for colleagues.
 
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience relevent to software development
+**COWI UK** (2015 & 2016)  
+Summer Intern
 
 ## Skills
 
@@ -53,7 +53,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (November 2022 to February 2023)
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below: 
@@ -62,16 +62,15 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### University of Bristol (September 2013 to July 2017)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Civil Engineering (MEng)
+- First Class
 
-#### Any other qualifications
+#### Marlborough College (September 2007 to July 2012)
 
-That in some arguable way make you a better software developer or well-rounded person
+A Levels: Mathematics (A*), Further Mathematics (A), French (A) and Physics (B)
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+- Keen sports player including football, cricket, long distance running and squash
