@@ -11,14 +11,14 @@ I am an enthusiastic and gregarious individual. After five years working in a ci
 
 ## Work Experience
 
-**COWI UK, London (January 2018 to October 2022)** 
+**COWI UK, London (January 2018 to October 2022)**  
 Engineering consultant
 
 - Supported multiple and concurrent civil engineering projects across the UK and abroad.
 - Project management for a long-standing Client with responsibility to supervise team members, lead client communication and ensure adherence of quality assurance processes.
 - Founding member of the "Early Careers Network"; an interal network, spanning all UK offices, which actively connected colleagues during the Coronavirus pandemic, organised an annual conference and maintained a database of resources for colleagues.
 
-**COWI UK, London (2015 & 2016** 
+**COWI UK, London (2015 & 2016)**  
 Summer Intern
 
 ## Skills
