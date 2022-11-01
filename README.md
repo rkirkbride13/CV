@@ -11,14 +11,14 @@ I am an enthusiastic and gregarious individual. After five years working in a ci
 
 ## Work Experience
 
-**COWI UK** (January 2018 to October 2022)  
+**COWI UK, London (January 2018 to October 2022)** 
 Engineering consultant
 
 - Supported multiple and concurrent civil engineering projects across the UK and abroad.
 - Project management for a long-standing Client with responsibility to supervise team members, lead client communication and ensure adherence of quality assurance processes.
 - Founding member of the "Early Careers Network"; an interal network, spanning all UK offices, which actively connected colleagues during the Coronavirus pandemic, organised an annual conference and maintained a database of resources for colleagues.
 
-**COWI UK** (2015 & 2016)  
+**COWI UK, London (2015 & 2016** 
 Summer Intern
 
 ## Skills
@@ -71,6 +71,8 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 A Levels: Mathematics (A*), Further Mathematics (A), French (A) and Physics (B)
 
-## Hobbies
+## Hobbies and Interest
 
-- Keen sports player including football, cricket, long distance running and squash
+- **Sports** : I have completed two half marathons and regularly play football and squash
+- **Natural history** : I'm never more zen than when watching a David Attenborough documentary
+- **Travel** : I love experiencing the foods, drinks and cultures of the World
