@@ -7,10 +7,12 @@ I am an enthusiastic and gregarious individual. After five years working in a ci
 | Name               | Description                                 | Technologies      | Testing
 | -------------------| --------------------------------------------| ----------------- |----------
 | **Final project**  | A webapp to do x.                           | React, Jest, etc. | RSpec, Jest
-| **[MakersBnb](https://github.com/rkirkbride13/makersbnb)**      | A clone of AirBnB that my team and I created in a week during our first Makers  group project                               | Ruby, Sinatra, Postgres, HTML, CSS | RSpec              |
+| **[MakersBnB](https://github.com/rkirkbride13/makersbnb)**      | A clone of AirBnB that my team and I created in a week during our first Makers  group project                               | Ruby, Sinatra, Postgres, HTML, CSS | RSpec              |
 | **[Chitter](https://github.com/rkirkbride13/chitter-challenge)**        | A Makers weekend challenge to make a clone of Twitter                                  | Ruby, Sinatra, Postgres, HTML, CSS | RSpec
 
-Please follow this link to see my GitHub [profile.](https://github.com/rkirkbride13)
+Please follow this [link](https://github.com/rkirkbride13) to see my GitHub profile.
+
+Please follow this [link](https://medium.com/@robbie_kirkbride) to see my blog posts documenting my coding development.
 ## Work Experience
 
 **COWI UK, London (January 2018 to October 2022)**  
@@ -27,10 +29,6 @@ Summer Intern
 
 #### Fast learner
 I am able to pick things up quickly
-
-- Experience
-- Achievements
-- Evidence (STAR)
 
 #### Team player
 During my time at Makers I tried my upmost to ensure peers felt supported and included. During my time at COWI I was able to support my project manager whilst managing a project of my own
