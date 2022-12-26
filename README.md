@@ -1,6 +1,8 @@
 ## Robbie Kirkbride
 
-I am an enthusiastic and gregarious individual. After five years working in a civil engineering consultancy, I wanted to give myself a new challenge. I am currently part way through the 12 week Makers Academy coding bootcamp.
+After five years working in a civil engineering consultancy I wanted to give myself a new challenge and as a person who is a strong logical thinker, software development was very attractive. I really enjoy the processes involved, like breaking down a big problem into smaller ones debugging, and I felt I had transferable skills to bring with me. I am currently part way through the 12 week Makers Academy coding bootcamp. 
+
+I am an enthusiastic and gregarious individual looking to bring my technical and social strengths to a junior developer role.
 
 ## Projects
 
