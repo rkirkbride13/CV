@@ -1,4 +1,5 @@
 ## Robbie Kirkbride
+[Projects](#Projects) | [Skills](#Skills) | [Work Experience](#Experience) | [Education](#Education) | [Hobbies and Interests](#hobbies) 
 
 After five years working in a civil engineering consultancy I wanted to give myself a new challenge and as a person who is a strong logical thinker, software development was very attractive. I really enjoy the processes involved, like breaking down a big problem into smaller ones debugging, and I felt I had transferable skills to bring with me. I am currently part way through the 12 week Makers Academy coding bootcamp. 
 
