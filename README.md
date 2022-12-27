@@ -76,4 +76,4 @@ Tech stack
 
 - **Sports** : I love playing football and having a general run around outside. I have also completed two half marathons and I'm currently (regretfully?) training for the Brighton marathon on 3rd April 2023.
 - **Natural history** : I'm never more zen than when watching a David Attenborough documentary. Whenever I go abroad I'll also be keeping half an eye out for any exotic plants/animals, so don't be offened if I accidentally ignore you, there's just a cool lizard over there.
-- **Travel** : I love experiencing the foods, drinks and cultures of the World. I was lucky enough to sandwich my 4 years at univeristy between 3 months stints in Southeast Asia and South America. A personal highlight was a 5 day unaided trek through the Peruvian alps.
+- **Travel** : I love experiencing the foods, drinks and cultures of the World. I was lucky enough to sandwich my 4 years at univeristy between 3 month stints in Southeast Asia and South America. A personal highlight was a 5 day unaided trek through the Peruvian alps.
