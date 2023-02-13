@@ -7,16 +7,15 @@
 
 [Projects](#Projects) | [Skills](#Skills) | [Experience](#Experience) | [Education](#Education) | [Hobbies and Interests](#Hobbies) 
 
-After five years working in a civil engineering consultancy I wanted to give myself a new challenge and as a person who is a strong logical thinker, software development was very attractive. I really enjoy the processes involved, such as problem solving and building products, and I felt I had transferable skills to bring with me. I am currently part way through the 12 week Makers Academy coding bootcamp. 
+After five years working in a civil engineering consultancy specialising in bridge design, I decided to take up a new challenge and become a Full Stack Junior Developer. In February 2023 I completed the 16 week software development bootcamp at Makers Academy, where I learned a wide range of technologies and practices.
 
-I am an enthusiastic and gregarious individual looking to bring my technical stengths and personable character to a junior developer role.
+I am an ambitious and gregarious individual looking to bring my technical stengths and personable character to a junior developer role, as well as the leadership skills I forged in my previous roles.
 
 ## Projects
 
 | Name               | Description                                 | Technologies      | Testing
 | -------------------| --------------------------------------------| ----------------- |----------
-| **[Ecoliday](https://github.com/rkirkbride13/Ecoliday)**  | Ecoliday has been developed to enable people to make a more environmentally informed decision when planning a holiday.
-It provides users with estimated CO2e emissions for different destinations and vehicle types as well as suggesting local alternatives.                           | MongoDB, Express.js, React, Node.js, JWT | Jest, Cypress
+| **[Ecoliday](https://github.com/rkirkbride13/Ecoliday)**  | Ecoliday has been developed to enable people to make a more environmentally informed decision when planning a holiday. It provides users with estimated CO2e emissions for different destinations and vehicle types as well as suggesting local alternatives.                           | MongoDB, Express.js, React, Node.js, JWT | Jest, Cypress
 | **[Acebook](https://github.com/rkirkbride13/acebook-mern)**      | A clone of AirBnB that my team and I created in a week during our first Makers  group project                               | Ruby, Sinatra, Postgres, HTML, CSS | RSpec              |
 | **[Till](https://github.com/rkirkbride13/tech-tests/tree/main/till)**        | A Makers weekend challenge to make a clone of Twitter                                  | Ruby, Sinatra, Postgres, HTML, CSS | RSpec
 
