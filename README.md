@@ -16,8 +16,8 @@ I am an ambitious and gregarious individual looking to bring my technical stengt
 | Name               | Description                                 | Technologies      | Testing
 | -------------------| --------------------------------------------| ----------------- |----------
 | **[Ecoliday](https://github.com/rkirkbride13/Ecoliday)**  | Ecoliday has been developed to enable people to make a more environmentally informed decision when planning a holiday. It provides users with estimated CO2e emissions for different destinations and vehicle types as well as suggesting local alternatives.                           | MongoDB, Express.js, React, Node.js, JWT | Jest, Cypress
-| **[Acebook](https://github.com/rkirkbride13/acebook-mern)**      | A clone of AirBnB that my team and I created in a week during our first Makers  group project                               | Ruby, Sinatra, Postgres, HTML, CSS | RSpec              |
-| **[Till](https://github.com/rkirkbride13/tech-tests/tree/main/till)**        | A Makers weekend challenge to make a clone of Twitter                                  | Ruby, Sinatra, Postgres, HTML, CSS | RSpec
+| **[Acebook](https://github.com/rkirkbride13/acebook-mern)**      | A clone of AirBnB that my team and I created in a week during our first Makers  group project                               | MongoDB, Express.js, React, Node.js, JWT | Jest, Cypress              |
+| **[Till](https://github.com/rkirkbride13/tech-tests/tree/main/till)**        | A Makers weekend challenge to make a clone of Twitter                                  | Javascript, HTML, CSS | Jest
 
 
 ## Experience
