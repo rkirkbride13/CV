@@ -28,9 +28,9 @@ I am an ambitious and gregarious individual looking to bring my technical streng
 **COWI UK, London** (January 2018 to October 2022)  
 *Engineering consultant*
 
-- Supported the design of multiple and concurrent civil engineering projects across the UK and abroad. Notable projects were the [Mumbai Trans Harbour Link](https://en.wikipedia.org/wiki/Mumbai_Trans_Harbour_Link) where I lead the fatigue analysis and created Finite Element Analysis models, and the replacement of [Bilsdale Mast](https://www.bilsdalemast.co.uk/), working on a two person team under intense time pressure.
-- Project management with responsibility to supervise team, lead client communication and ensure adherence of quality assurance processes.
-- Founding member of the "Early Careers Network" (ECN); an interal network spanning all UK offices that created a SharePoint page to facilitate Chartership progress and organised social/technical events, culminating in a 2 night Conference in the Peak District.
+- Supported the design of multiple and concurrent civil engineering projects across the UK and abroad. During design of the [Mumbai Trans Harbour Link](https://en.wikipedia.org/wiki/Mumbai_Trans_Harbour_Link) I lead the fatigue analysis and created Finite Element Analysis models. When designing the replacement of [Bilsdale Mast](https://www.bilsdalemast.co.uk/) I worked on a two person team under intense time pressure, yet delivered a design with approximately a third less CO2e than the original.
+- Project manager of a long-standing Client with responsibility to supervise team, lead client communication and ensure adherence of quality assurance processes. The team composed of recent graduates who required training and leadership.
+- Founding member of the "Early Careers Network" (ECN); an interal network spanning all UK offices that created a SharePoint page to facilitate Chartership progression in the company and organised social and technical events, culminating in a 2 night Conference in the Peak District.
 
 **COWI UK, London** (2015 & 2016)  
 *Summer Intern*
@@ -74,6 +74,6 @@ A Levels: Mathematics (A*), Further Mathematics (A), French (A) and Physics (B)
 
 ## Hobbies
 
-- **Sports** : I love playing football and having a general run around outside. I regularly compete in a 5 aside football team and have completed two half marathons.
+- :soccer:**Sports** : I love playing football and having a general run around outside. I regularly compete in a 5 aside football team and have completed two half marathons.
 - **Natural history** : I'm never more zen than when watching a David Attenborough documentary. Whenever I go abroad I love keeping half an eye out for any exotic plants/animals, so don't be offened if I accidentally ignore you, there's just a cool lizard over there.
 - **Travel** : I love experiencing other foods, drinks and cultures from around the World. I was lucky enough to sandwich my 4 years at univeristy between 3 month stints in Southeast Asia and South America. A personal highlight was a 5 day unaided trek (reaching 4,750m altitude) through the Cordillera Blanca, which highlights my willingness to take on a challenge.
