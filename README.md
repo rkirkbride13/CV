@@ -25,7 +25,7 @@ I am an ambitious and gregarious individual looking to bring my technical streng
 
 ## Experience
 
-**COWI UK, London** (January 2018 to October 2022)  
+**[COWI UK](https://www.cowi.com/), London** (January 2018 to October 2022)  
 *Engineering consultant*
 
 - Supported the design of multiple and concurrent civil engineering projects across the UK and abroad. During design of the [Mumbai Trans Harbour Link](https://en.wikipedia.org/wiki/Mumbai_Trans_Harbour_Link) I lead the fatigue analysis and created Finite Element Analysis models. When designing the replacement of [Bilsdale Mast](https://www.bilsdalemast.co.uk/) I worked on a two person team under intense time pressure, yet delivered a design with approximately a third less CO2e than the original.
@@ -74,6 +74,6 @@ A Levels: Mathematics (A*), Further Mathematics (A), French (A) and Physics (B)
 
 ## Hobbies
 
-- :soccer:**Sports** : I love playing football and having a general run around outside. I regularly compete in a 5 aside football team and have completed two half marathons.
-- **Natural history** : I'm never more zen than when watching a David Attenborough documentary. Whenever I go abroad I love keeping half an eye out for any exotic plants/animals, so don't be offened if I accidentally ignore you, there's just a cool lizard over there.
-- **Travel** : I love experiencing other foods, drinks and cultures from around the World. I was lucky enough to sandwich my 4 years at univeristy between 3 month stints in Southeast Asia and South America. A personal highlight was a 5 day unaided trek (reaching 4,750m altitude) through the Cordillera Blanca, which highlights my willingness to take on a challenge.
+- :soccer: **Sports** : I love playing football and having a general run around outside. I regularly compete in a 5 aside football team and have completed two half marathons.
+- :lizard: **Natural history** : I'm never more zen than when watching a David Attenborough documentary. Whenever I go abroad I love keeping half an eye out for any exotic plants/animals, so don't be offened if I accidentally ignore you, there's just a cool lizard over there.
+- :earth_americas: **Travel** : I love experiencing other foods, drinks and cultures from around the World. I was lucky enough to sandwich my 4 years at univeristy between 3 month stints in Southeast Asia and South America. A personal highlight was a 5 day unaided trek (reaching 4,750m altitude) through the Cordillera Blanca, which highlights my willingness to take on a challenge.
