@@ -7,9 +7,9 @@
 
 [Projects](#Projects) | [Skills](#Skills) | [Experience](#Experience) | [Education](#Education) | [Hobbies and Interests](#Hobbies) 
 
-After five years working in a civil engineering consultancy specialising in bridge design, I decided to take on a new challenge and become a Full Stack Junior Developer. In February 2023 I completed the 16 week software development bootcamp at Makers Academy where I learned a wide range of technologies and practices, and turned this goal into a reality.
+After five years working in a civil engineering consultancy specialising in bridge design, I decided to take on a new challenge and become a Full Stack Junior Developer. Having had the opportunity to apply my skills in the construction industry, I felt I could be more influential in another field and with a fascination in tech and a transferable skillset I decided to change career. In February 2023 I completed the 16 week software development bootcamp at Makers Academy and turned this goal into a reality. In addition to the technologies listed below, I am experienced in working practices such as OOP, TDD, Agile and Version Control.
 
-I am an ambitious and gregarious individual looking to bring my technical strengths and personable character to a junior developer role, as well as the leadership skills I forged in my previous roles.
+I am an ambitious and gregarious individual looking to bring my technical strengths and personable character to a junior developer role, as well as the leadership skills I forged in my previous roles. 
 
 **Tech skills**: JavaScript, Node.js, Express, React, Ruby, Sinatra, HTML, CSS, Tailwind, Jest, Cypress, RSpec, MongoDB, PostgreSQL
 
