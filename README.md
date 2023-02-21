@@ -2,7 +2,7 @@
 
 <a href="https://github.com/rkirkbride13">
 <img src="github.png" alt="github" hspace="50" height="38" width="38"></a> <a href="https://medium.com/@robbie_kirkbride">
-<img src="https://cdn1.iconfinder.com/data/icons/social-media-circle-7/512/Circled_Medium_svg5-512.png" alt="medium" hspace="50" height="38" width="38"></a> <a href="https://www.linkedin.com/in/robbie-kirkbride-80103a145/">
+<img src="https://cdn1.iconfinder.com/data/icons/social-media-circle-7/512/Circled_Medium_svg5-512.png" alt="medium" hspace="50" height="38" width="38"></a> <a href="https://www.linkedin.com/in/robbie-kirkbride/">
 <img src="linkedin.png" alt="linkedin" hspace="50" height="38" width="38"></a>
 
 [Projects](#Projects) | [Skills](#Skills) | [Experience](#Experience) | [Education](#Education) | [Hobbies and Interests](#Hobbies) 
