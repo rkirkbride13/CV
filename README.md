@@ -40,7 +40,7 @@ I am an ambitious and gregarious individual looking to bring my technical streng
 *Summer Intern*
 
 - Undertook design calculations for several complex bridges, including the proposed [Garden Bridge](https://en.wikipedia.org/wiki/Garden_Bridge)
-- Assisted with the improvement of existing Finite Element Analysis models, including refining mesh densities to increase accuracy and reduce run times.
+- Responsible for the improvement of existing Finite Element Analysis models, including refining mesh densities to increase accuracy and reduce run times.
 
 ## Skills
 
