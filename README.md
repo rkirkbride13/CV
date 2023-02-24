@@ -39,7 +39,7 @@ I am an ambitious and gregarious individual looking to bring my technical streng
 **COWI UK, London** (2015 & 2016)  
 *Summer Intern*
 
-- Undertook design calculations of several complex bridges, including the proposed but never completed [Garden Bridge](https://en.wikipedia.org/wiki/Garden_Bridge)
+- Undertook design calculations for several complex bridges, including the proposed [Garden Bridge](https://en.wikipedia.org/wiki/Garden_Bridge)
 - Assisted with the improvement of existing Finite Element Analysis models, including refining mesh densities to increase accuracy and reduce run times.
 
 ## Skills
