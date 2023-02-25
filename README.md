@@ -64,12 +64,12 @@ During the Makers course I developed a strong debugging process by taking a syst
 **Makers Academy** (November 2022 to February 2023)
 
 A 16 week intensive coding bootcamp where I honed skills such as:
-- Object-oriented programming by practicing encapsulation, abstraction, inheritance and polymorphism.
-- Test driven development to ensure code is robust, reliable and adaptable.
-- Agile methodologies to quickly create solutions which can be iteratively improved upon.
-- Probelm solving by breaking a problem into manageable parts and taking a methodical approach.
-- Independent learning by using a number of resources including peers, online communities and documentation.
-- Pair programming by checking in with a partner before each session to gauge how the session should run.
+- Object-oriented programming. I practiced and developed my knowledge on encapsulation, abstraction, inheritance and polymorphism.
+- Test driven development. I used it to ensure my code is robust, reliable and adaptable.
+- Agile methodologies. I was able to work in teams to quickly create solutions which could be iteratively improved upon.
+- Probelm solving. I was able to break a problem into manageable parts and take a methodical approach to overcome them.
+- Independent learning. I used a number of resources including peers, online communities and documentation to quickly address gaps in my knowledge.
+- Pair programming. I developed my soft skills, regularly checking in with a partner before each session to gauge how it should run and tailor my approach to suit.
 
 **University of Bristol** (September 2013 to July 2017)
 
