@@ -3,23 +3,28 @@
 <a href="https://github.com/rkirkbride13">
 <img src="github.png" alt="github" hspace="50" height="38" width="38"></a> 
 <a href="https://medium.com/@robbie_kirkbride">
-<img src="https://cdn1.iconfinder.com/data/icons/social-media-circle-7/512/Circled_Medium_svg5-512.png" alt="medium" hspace="50" height="38" width="38"></a> <a href="https://www.linkedin.com/in/robbie-kirkbride/">
+<img src="https://cdn1.iconfinder.com/data/icons/social-media-circle-7/512/Circled_Medium_svg5-512.png" alt="medium" hspace="50" height="38" width="38"></a> 
+<a href="https://www.linkedin.com/in/robbie-kirkbride/">
 <img src="linkedin.png" alt="linkedin" hspace="50" height="38" width="38"></a>
+<a href="https://robbiekbride-co-uk.onrender.com/">
+<img src="link.png" alt="link" hspace="50" height="38" width="38"></a>
 
 [Projects](#Projects) | [Skills](#Skills) | [Experience](#Experience) | [Education](#Education) | [Hobbies and Interests](#Hobbies) 
 
-After five years working in a civil engineering consultancy specialising in bridge design, I decided to take on a new challenge and become a Full Stack Junior Developer. Having had the opportunity to apply my skills in the construction industry, I felt I could be more influential in another field and with a fascination in tech and a transferable skillset I decided to change career. In February 2023 I completed the 16 week software development bootcamp at Makers Academy and turned this goal into a reality. I love the process of seeing my projects come to life and the endless possibilities of what I will be able to create in this career.
+After five years working in a civil engineering consultancy specialising in bridge design I decided to take on a new challenge and become a Software Developer. Having had the opportunity to apply my skills in the construction industry, I felt I could be more influential in another field and with a fascination in tech and a transferable skillset I decided to change career. In February 2023 I completed the 16 week software development bootcamp at Makers Academy and turned this goal into a reality. I love the process of seeing my projects come to life and the endless possibilities of what I will be able to create in this career.
 
 I am an ambitious and gregarious individual looking to bring my technical strengths and personable character to a junior developer role, as well as the leadership skills I forged in my previous roles. In addition to the technologies listed below, I am experienced in working practices such as OOP, TDD, Agile and Version Control.
 
-**Tech skills**: JavaScript, Node.js, Express, React, Ruby, Sinatra, HTML, CSS, Tailwind, Jest, Cypress, RSpec, MongoDB, PostgreSQL
+**Tech skills**: TypeScript, JavaScript, Node.js, Express.js, React, Ruby, Sinatra, HTML, CSS, Tailwind, Jest, Cypress, RSpec, MongoDB, PostgreSQL, JWT, GitHub, Trello
 
 ## Projects
+
+Check out my [portfolio](https://robbiekbride-co-uk.onrender.com/).
 
 | Name               | Description                                 | Technologies      | Testing
 | -------------------| --------------------------------------------| ----------------- |----------
 | **[Ecoliday](https://github.com/rkirkbride13/Ecoliday)**  | A travel app to enable people to make a more environmentally informed decision when planning a holiday. It provides users with estimated CO2e emissions for different destinations and vehicle types as well as suggesting local alternatives. Use [this link](https://ecoliday-cxyz.onrender.com/) to try it for yourself!                           | MongoDB, Express.js, React, Node.js, JWT, Tailwind | Jest, Cypress
-| **[frontleft](https://github.com/rkirkbride13/frontleft)**  | A music festival artist planner to help you see all your favourite acts and get your monies worth.                           | TypeScript, MongoDB, Express.js, React, Node.js, JWT, CSS | Jest
+| **[frontleft](https://github.com/rkirkbride13/frontleft)**  | After Makers, I wanted to build something using TypeScript having learned it after graduating. I settled on frontleft, a music festival act planner to help you see all your favourite artists and DJs and get your monies worth.                           | TypeScript, MongoDB, Express.js, React, Node.js, JWT, CSS | Jest
 | **[Acebook](https://github.com/rkirkbride13/acebook-mern)**      | A social media platform built during a two week group project. This was my first introduction to the MERN stack. We were given an existing codebase to initially understand and then to add features to.                               | MongoDB, Express.js, React, Node.js, JWT, CSS | Jest, Cypress              |
 | **[Till](https://github.com/rkirkbride13/tech-tests/tree/main/till)**        | An app that replicates the logic of a till, where items from a menu can be added to an order and a receipt be printed.                                  | JavaScript, HTML, CSS | Jest
 | **[Bowling](https://github.com/rkirkbride13/bowling-challenge-ruby)**        | A bowling scorecard app where the user inputs each turn and their score is calculated. The surprisingly complex logic of bowling makes such an app a great candidate for writing well planned and test-driven code.                                    | Ruby, Sinatra, HTML, CSS | RSpec
@@ -27,6 +32,16 @@ I am an ambitious and gregarious individual looking to bring my technical streng
 
 
 ## Experience
+
+**[Makers Academy](https://makers.tech/), London** (October 2022 to February 2023)
+
+A 16 week intensive coding bootcamp where I honed skills such as:
+- Object-oriented programming. I practiced and developed my knowledge on encapsulation, abstraction, inheritance and polymorphism.
+- Test driven development. I used it to ensure my code is robust, reliable and adaptable.
+- Agile methodologies. I was able to work in teams to quickly create solutions which could be iteratively improved upon.
+- Problem solving and debugging. I was able to break problems down into manageable parts and take a methodical approach to overcome them step by step.
+- Independent learning. I used a number of resources including peers, online communities and documentation to quickly address gaps in my knowledge.
+- Pair programming. I developed my soft skills, regularly checking in with a partner before each session to gauge how it should run and tailor sessions accordingly.
 
 **[COWI UK](https://www.cowi.com/), London** (January 2018 to October 2022)  
 *Engineering consultant*
@@ -63,15 +78,9 @@ During the Makers course I developed a strong debugging process by taking a syst
 
 ## Education
 
-**Makers Academy** (November 2022 to February 2023)
+**Makers Academy, London** (October 2022 to February 2023)
 
-A 16 week intensive coding bootcamp where I honed skills such as:
-- Object-oriented programming. I practiced and developed my knowledge on encapsulation, abstraction, inheritance and polymorphism.
-- Test driven development. I used it to ensure my code is robust, reliable and adaptable.
-- Agile methodologies. I was able to work in teams to quickly create solutions which could be iteratively improved upon.
-- Probelm solving. I was able to break a problem into manageable parts and take a methodical approach to overcome them.
-- Independent learning. I used a number of resources including peers, online communities and documentation to quickly address gaps in my knowledge.
-- Pair programming. I developed my soft skills, regularly checking in with a partner before each session to gauge how it should run and tailor my approach to suit.
+Coding bootcamp
 
 **University of Bristol** (September 2013 to July 2017)
 
