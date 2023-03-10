@@ -1,5 +1,8 @@
 ## Robbie Kirkbride
 
+[Projects](#Projects) | [Skills](#Skills) | [Experience](#Experience) | [Education](#Education) | [Hobbies and Interests](#Hobbies) 
+
+
 <a href="https://github.com/rkirkbride13">
 <img src="github.png" alt="github" hspace="50" height="38" width="38"></a> 
 <a href="https://medium.com/@robbie_kirkbride">
@@ -9,7 +12,6 @@
 <a href="https://robbiekbride-co-uk.onrender.com/">
 <img src="link.png" alt="link" hspace="50" height="38" width="38"></a>
 
-[Projects](#Projects) | [Skills](#Skills) | [Experience](#Experience) | [Education](#Education) | [Hobbies and Interests](#Hobbies) 
 
 After five years working in a civil engineering consultancy specialising in bridge design I decided to take on a new challenge and become a Software Developer. Having had the opportunity to apply my skills in the construction industry, I felt I could be more influential in another field and with a fascination in tech and a transferable skillset I decided to change career. In February 2023 I completed the 16 week software development bootcamp at Makers Academy and turned this goal into a reality. I love the process of seeing my projects come to life and the endless possibilities of what I will be able to create in this career.
 
