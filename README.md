@@ -19,7 +19,7 @@ I am an ambitious and gregarious individual looking to bring my technical streng
 
 ## Projects
 
-Check out my [portfolio](https://robbiekbride-co-uk.onrender.com/).
+[Check out my portfolio too!](https://www.robbiekbride.co.uk/).
 
 | Name               | Description                                 | Technologies      | Testing
 | -------------------| --------------------------------------------| ----------------- |----------
