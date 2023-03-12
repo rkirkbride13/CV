@@ -23,12 +23,10 @@ Check out my [portfolio](https://robbiekbride-co-uk.onrender.com/).
 
 | Name               | Description                                 | Technologies      | Testing
 | -------------------| --------------------------------------------| ----------------- |----------
-| **[Ecoliday](https://github.com/rkirkbride13/Ecoliday)**  | A travel app to enable people to make a more environmentally informed decision when planning a holiday. It provides users with estimated CO2e emissions for different destinations and vehicle types as well as suggesting local alternatives. 
-Use [this link](https://ecoliday-cxyz.onrender.com/) to try it for yourself!                           | MongoDB, Express.js, React, Node.js, JWT, Tailwind | Jest, Cypress
+| **[Ecoliday](https://github.com/rkirkbride13/Ecoliday)**  | A travel app to enable people to make a more environmentally informed decision when planning a holiday. It provides users with estimated CO2e emissions for different destinations and vehicle types as well as suggesting local alternatives. Use [this link](https://ecoliday-cxyz.onrender.com/) to try it for yourself!                           | MongoDB, Express.js, React, Node.js, JWT, Tailwind | Jest, Cypress
 | **[frontleft](https://github.com/rkirkbride13/frontleft)**  | After Makers, I wanted to build something using TypeScript having learned it after graduating. I settled on frontleft, a music festival act planner to help you see all your favourite artists and DJs and get your monies worth.                           | TypeScript, MongoDB, Express.js, React, Node.js, JWT, CSS | Jest
 | **[Acebook](https://github.com/rkirkbride13/acebook-mern)**      | A social media platform built during a two week group project. This was my first introduction to the MERN stack. We were given an existing codebase to initially understand and then to add features to.                               | MongoDB, Express.js, React, Node.js, JWT, CSS | Jest, Cypress              |
-| **[Till](https://github.com/rkirkbride13/tech-tests/tree/main/till)**        | An app that replicates the logic of a till, where items from a menu can be added to an order and a receipt be printed. 
-Use [this link](https://till.onrender.com/) to try it yourself! | JavaScript, HTML, CSS | Jest
+| **[Till](https://github.com/rkirkbride13/tech-tests/tree/main/till)**        | An app that replicates the logic of a till, where items from a menu can be added to an order and a receipt be printed. Use [this link](https://till.onrender.com/) to try it yourself! | JavaScript, HTML, CSS | Jest
 | **[Bowling](https://github.com/rkirkbride13/bowling-challenge-ruby)**        | A bowling scorecard app where the user inputs each turn and their score is calculated. The surprisingly complex logic of bowling makes such an app a great candidate for writing well planned and test-driven code.                                    | Ruby, Sinatra, HTML, CSS | RSpec
 
 
