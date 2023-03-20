@@ -1,4 +1,4 @@
-## Robbie Kirkbride
+## Robbie Kirkbride [[CV](https://github.com/rkirkbride13/CV/blob/master/_Robbie%20Kirkbride%20CV.pdf)]
 
 <a href="https://github.com/rkirkbride13">
 <img src="github.png" alt="github" hspace="30" height="38" width="38"></a> 
