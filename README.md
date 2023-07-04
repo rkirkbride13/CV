@@ -13,7 +13,7 @@
 
 After five years working in a civil engineering consultancy specialising in bridge design I decided to take on a new challenge and become a Software Developer. Having had the opportunity to apply my skills in the construction industry, I felt I could be more influential in another field and with a fascination in tech and a transferable skillset I decided to change career. In February 2023 I completed the 16 week software development bootcamp at Makers Academy and turned this goal into a reality. I love the process of seeing my projects come to life and the endless possibilities of what I will be able to create in this career.
 
-I am an ambitious and gregarious individual looking to bring my technical strengths and personable character to a junior developer role, as well as the leadership skills I forged in my previous roles. In addition to the technologies listed below, I am experienced in working practices such as OOP, TDD, Agile and Version Control.
+I am an ambitious and gregarious individual looking to bring my technical strengths and personable character to a junior developer role, as well as the leadership skills I forged in my previous roles. In addition to the technologies listed below, I am experienced in working practices such as OOP, TDD, Agile, Version Control and CI/CD pipelines.
 
 **Tech skills**: TypeScript, JavaScript, Node.js, Express.js, React, Ruby, Sinatra, HTML, CSS, Tailwind, Jest, Cypress, RSpec, MongoDB, PostgreSQL, JWT, GitHub, Trello
 
