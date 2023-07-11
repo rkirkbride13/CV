@@ -11,9 +11,9 @@
 
 [Projects](#Projects) | [Skills](#Skills) | [Experience](#Experience) | [Education](#Education) | [Hobbies and Interests](#Hobbies) 
 
-After five years working in a civil engineering consultancy specialising in bridge design I decided to take on a new challenge and become a Software Developer. Having had the opportunity to apply my skills in the construction industry, I felt I could be more influential in another field and with a fascination in tech and a transferable skillset I decided to change career. In February 2023 I completed the 16 week software development bootcamp at Makers Academy and turned this goal into a reality. I love the process of seeing my projects come to life and the endless possibilities of what I will be able to create in this career.
+After five years working in a civil engineering consultancy specialising in bridge design I decided to take on a new challenge and become a Software Developer. Having had the opportunity to apply my skills in the construction industry, I challenged myself to be influential in a new field and with a fascination in tech and a transferable skillset I decided to change career. In February 2023 I completed the 16 week software development bootcamp at Makers Academy and turned this goal into a reality. I love the process of seeing my projects come to life and the endless possibilities of what I will be able to create in this career.
 
-I am an ambitious and gregarious individual looking to bring my technical strengths and personable character to a junior developer role, as well as the leadership skills I forged in my previous roles. In addition to the technologies listed below, I am experienced in working practices such as OOP, TDD, Agile, Version Control and CI/CD pipelines.
+I am an ambitious and gregarious individual looking to bring my technical strengths and personable character to a developer role, along with the leadership skills I forged in my previous career. In addition to the technologies listed below, I am experienced in working practices such as OOP, TDD, Agile, Version Control and CI/CD pipelines.
 
 **Tech skills**: TypeScript, JavaScript, Node.js, Express.js, React, Ruby, Sinatra, HTML, CSS, Tailwind, Jest, Cypress, RSpec, MongoDB, PostgreSQL, JWT, GitHub, Trello
 
@@ -36,12 +36,12 @@ I am an ambitious and gregarious individual looking to bring my technical streng
 **[Makers Academy](https://makers.tech/), London** (October 2022 to February 2023)
 
 A 16 week intensive coding bootcamp where I honed skills such as:
-- Object-oriented programming. I practiced and developed my knowledge on encapsulation, abstraction, inheritance and polymorphism.
-- Test driven development. I used it to ensure my code is robust, reliable and adaptable.
-- Agile methodologies. I was able to work in teams to quickly create solutions which could be iteratively improved upon.
-- Problem solving and debugging. I was able to break problems down into manageable parts and take a methodical approach to overcome them step by step.
-- Independent learning. I used a number of resources including peers, online communities and documentation to quickly address gaps in my knowledge.
-- Pair programming. I developed my soft skills, regularly checking in with a partner before each session to gauge how it should run and tailor sessions accordingly.
+- Object-oriented programming. I practiced and developed my skills on writing code with encapsulation, abstraction, inheritance and polymorphism as well as the principles such as DRY and SOLID.
+- Test driven development. I possess expertise in writing comprehensive unit tests, mocking to ensure that each component of my code functions properly in isolation as well as within a larger system. 
+- Agile methodologies. I used my pragmatic approach to tailor MVPs and ensure that a product was iteratively improved upon and remained functional at the end of each sprint. I used my emotional intelligence to lead standups and retros throughout the Makers course.
+- Problem solving and debugging. I was able to break problems down and take a methodical approach to overcome them step by step, using tools such as discovery debugging to both understand codebases and overcome bugs.
+- Independent learning. I adopted a growth mindset and used a number of resources including my peers, online communities and documentation to quickly address gaps in my knowledge and build robust systems for future self-directed learning.
+- Pair programming. I developed my soft skills, regularly checking in with a partner before each session to gauge how it should run and tailor sessions accordingly. I also used these sessions to share knowledge and ideas.
 
 **[COWI UK](https://www.cowi.com/), London** (January 2018 to October 2022)  
 *Engineering consultant*
